@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/TodoApp/static/css/main.43cc0740.chunk.css",
+    "main.js": "/TodoApp/static/js/main.49eb400a.chunk.js",
+    "main.js.map": "/TodoApp/static/js/main.49eb400a.chunk.js.map",
+    "runtime-main.js": "/TodoApp/static/js/runtime-main.8c50e0be.js",
+    "runtime-main.js.map": "/TodoApp/static/js/runtime-main.8c50e0be.js.map",
+    "static/css/2.7ad897a5.chunk.css": "/TodoApp/static/css/2.7ad897a5.chunk.css",
+    "static/js/2.5277abb0.chunk.js": "/TodoApp/static/js/2.5277abb0.chunk.js",
+    "static/js/2.5277abb0.chunk.js.map": "/TodoApp/static/js/2.5277abb0.chunk.js.map",
+    "index.html": "/TodoApp/index.html",
+    "precache-manifest.ed2a0e2fde9bbe8a941e3b98389d6e9e.js": "/TodoApp/precache-manifest.ed2a0e2fde9bbe8a941e3b98389d6e9e.js",
+    "service-worker.js": "/TodoApp/service-worker.js",
+    "static/css/2.7ad897a5.chunk.css.map": "/TodoApp/static/css/2.7ad897a5.chunk.css.map",
+    "static/css/main.43cc0740.chunk.css.map": "/TodoApp/static/css/main.43cc0740.chunk.css.map",
+    "static/js/2.5277abb0.chunk.js.LICENSE.txt": "/TodoApp/static/js/2.5277abb0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TodoApp/static/media/Cuprum-Regular-webfont.8b055f01.woff",
+    "static/media/logo.svg": "/TodoApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c50e0be.js",
+    "static/css/2.7ad897a5.chunk.css",
+    "static/js/2.5277abb0.chunk.js",
+    "static/css/main.43cc0740.chunk.css",
+    "static/js/main.49eb400a.chunk.js"
+  ]
+}

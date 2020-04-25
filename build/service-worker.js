@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal
+ */
+
 /**
  * Welcome to your Workbox-powered service worker!
  *

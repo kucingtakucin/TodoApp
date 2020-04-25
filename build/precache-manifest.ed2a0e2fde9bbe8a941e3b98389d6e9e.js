@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal
+ */
+
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "95f04ccc537d4620a51aa053cbe81262",

@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2020. Adam Arthur Faizal
- */
-
 /**
  * Welcome to your Workbox-powered service worker!
  *
@@ -18,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TodoApp/precache-manifest.ed2a0e2fde9bbe8a941e3b98389d6e9e.js"
+  "/TodoApp/precache-manifest.441a40e1eacdfe66dafa9d4fb68355ea.js"
 );
 
 self.addEventListener('message', (event) => {
